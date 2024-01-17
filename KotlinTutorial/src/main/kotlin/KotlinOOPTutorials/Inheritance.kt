@@ -15,6 +15,6 @@ class Footballer(age: Int, name: String): Person(age, name) {
 
 fun main(args: Array<String>) {
 
-    val f1 = Footballer(29, "Christiano")
+    val f1 = Footballer(29, "Cristiano")
     f1.playFootball()
 }
